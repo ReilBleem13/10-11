@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "results": [
+    {
+      "url": "google.com",
+      "status": "available"
+    },
+    {
+      "url": "vk.ru",
+      "status": "available"
+    }
+  ]
+}
